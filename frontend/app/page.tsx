@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-    <main className="min-h-screen bg-gray-50 text-gray-900">
+    <main className="min-h-screen bg-gradient-to-b from-green-50 to-gray-50">
       {/* Navbar */}
       <header className="bg-white shadow-sm px-8 py-4 flex justify-between items-center">
         <h1 className="text-xl font-bold text-green-700">
